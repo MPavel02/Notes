@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AStNfhS/5WId2PK3tVkfG1xsPdAzIeepniFPDIFVn1z9Ls32CnH56lpkeDyc49U5oabnS5e46GORbLL5VfE3ig==",
+  "dgSpecHash": "rxDDZaUBk1Z1GcDSrfJQQ8h03AypkGQDbB0ijFlHk7LGlbM+Pxxzn/N7U27EfA1CqwnRpPVpPbMyzEpoQd73Vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\R2D2\\Documents\\GitFork\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R2D2\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
