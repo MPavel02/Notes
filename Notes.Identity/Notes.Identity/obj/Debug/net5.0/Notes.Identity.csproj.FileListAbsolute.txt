@@ -81,3 +81,6 @@ C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\ne
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Notes.Identity.RazorTargetAssemblyInfo.cs
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Notes.Identity.Views.pdb
+C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Notes.Identity.Properties.Resources.resources
+C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Notes.Identity.csproj.GenerateResource.cache
+C:\Users\R2D2\Documents\GitFork\Notes\Notes.Identity\Notes.Identity\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
