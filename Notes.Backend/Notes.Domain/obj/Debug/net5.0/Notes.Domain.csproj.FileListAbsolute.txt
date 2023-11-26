@@ -20,3 +20,4 @@ C:\Users\R2D2\Documents\GitFork\Notes\Notes.Backend\Notes.Domain\obj\Debug\net5.
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Backend\Notes.Domain\obj\Debug\net5.0\refint\Notes.Domain.dll
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.pdb
 C:\Users\R2D2\Documents\GitFork\Notes\Notes.Backend\Notes.Domain\obj\Debug\net5.0\ref\Notes.Domain.dll
+C:\Users\R2D2\Documents\GitFork\Notes\Notes.Backend\Notes.Domain\obj\Debug\net5.0\Notes.Domain.sourcelink.json
