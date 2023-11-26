@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RDXZrSmX3bl67pJMeJsrVTIhDCx0iRLITpw1LI+FKl5yykgWK1pjnaKmm93/E/R94MEylnz8IlgwBJ2yL3MeiQ==",
+  "dgSpecHash": "JDxCJhZdc0LypX3ERT9xfGIg5u8zwuvuPBwnRiwvxZUKiQ4gi9P6XjQCtnHwQru+SFtuPIST/X0ZmIbdBEj34Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\R2D2\\Documents\\GitFork\\Notes\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,8 @@
     "C:\\Users\\R2D2\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"

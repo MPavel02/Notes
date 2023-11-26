@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2mJF4W5fNBCVwgIJfCXTsksP30SXPdJYMQoH6h3GovS+FvVZgEfHbPlbyRQFwgqvQDx5Q55H7Qhp/ZGYT2hfzA==",
+  "dgSpecHash": "9gdZ4l7gIwzJKxdx++QeFoAgmHRXubtp3ocNXJ+VzIcHqcJqsU5FVKaSmnHeLBWv3UNPY1v+jgmvEFXaOdRvng==",
   "success": true,
   "projectFilePath": "C:\\Users\\R2D2\\Documents\\GitFork\\Notes\\Notes.Backend\\Notes.Tests\\Notes.Tests.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,8 @@
     "C:\\Users\\R2D2\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\R2D2\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\shouldly\\4.2.1\\shouldly.4.2.1.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\R2D2\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
